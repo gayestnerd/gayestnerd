@@ -1,4 +1,3 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ<img width="294" height="222" alt="Без названия38_20261111115248" src="https://github.com/user-attachments/assets/bd4bd6dd-9daf-457c-a1db-fbb058f56d7e" />
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ<img width="294" height="322" alt="Без названия38_20261111115248" src="https://github.com/user-attachments/assets/bd4bd6dd-9daf-457c-a1db-fbb058f56d7e" />
 
-nostalgia will be the death of me.
-$\color{#eca97c}{\textsf{nostalgia}}$ $\color{#85776c}{\textsf{will be the}}$ $\color{#e06053}{\textsf{death}}$ $\color{#85776c}{\textsf{of}}$ $\color{#eca97c}{\textsf{me}}$
+$\color{#eca97c}{\textsf{nostalgia}}$ $\color{#85776c}{\textsf{will be the}}$ $\color{#e06053}{\textsf{death}}$ $\color{#85776c}{\textsf{of}}$ $\color{#eca97c}{\textsf{me.}}$
